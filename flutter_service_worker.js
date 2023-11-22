@@ -3,11 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "bf94233ac6a85029494d4802b95a4849",
-"assets/AssetManifest.json": "f63e7a7ebc6951b1c8545967b16e6732",
+const RESOURCES = {"assets/AssetManifest.bin": "24ba23019230ad98c4f250062a83b6fe",
+"assets/AssetManifest.json": "f5108f926f628d3239572b41e3674c8a",
 "assets/assets/images/ankle-test.webp": "2496caefeabf367ec439ee2a31b63789",
 "assets/assets/images/bridge.webp": "37f45cbba8ec99a3da53a0eb0363b7fb",
 "assets/assets/images/butt-wink.webp": "008b7ad8745f76ba642356631c97c433",
+"assets/assets/images/Crossfit%2520First-Aid-02.jpg": "bb7eb0aaa73866dda5cb9b338d66b713",
+"assets/assets/images/Crossfit%2520First-Aid-02.png": "e02482a46f86cb63e5eec63d36dd9ae0",
+"assets/assets/images/Crossfit%2520First-Aid.png": "d39085938e49f4d2d050c57dbf6baaa2",
 "assets/assets/images/ext-2.webp": "a0586f1e4a7c0106a077af487cf27707",
 "assets/assets/images/good-posture.webp": "5aa0ab1ea726b5a187bcaa42a18ee897",
 "assets/assets/images/heel-drop-1.webp": "8a5e0a02e2cd90238e28e21c01d4f2f7",
@@ -48,11 +51,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "bf94233ac6a85029494d4802b95a4849
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "9aabe3503f2a0f4181d428f7936d65c0",
-"/": "9aabe3503f2a0f4181d428f7936d65c0",
-"main.dart.js": "8054be82985e10c2f72db2bfffc4e239",
+"index.html": "28ecebcc0db746048a2db16aa288d90b",
+"/": "28ecebcc0db746048a2db16aa288d90b",
+"main.dart.js": "dde276c253d83fba24e755302fdef360",
 "manifest.json": "26ad5f5e2c80b203b6e1801133adcbd6",
-"version.json": "7257efc66f605351ed38cbfcb42b34b9"};
+"version.json": "469a5a9c3bef929b0fcb2d3d4bb6b80c"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
